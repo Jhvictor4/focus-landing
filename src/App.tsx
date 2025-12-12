@@ -52,7 +52,7 @@ function App() {
           </p>
           <div style={{ display: 'flex', gap: 'var(--space-4)', flexWrap: 'wrap' }}>
             <a
-              href="https://github.com/Jhvictor4/project-focus/releases/download/v0.3.2/Focus-0.3.2-arm64.dmg"
+              href="https://github.com/Jhvictor4/focus-landing/releases/download/v0.3.2/Focus-0.3.2-arm64.dmg"
               style={{
                 display: 'inline-block',
                 padding: 'var(--space-4) var(--space-8)',
